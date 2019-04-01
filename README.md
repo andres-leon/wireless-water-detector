@@ -12,24 +12,20 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 
 ## Pictures
 <p align="center">
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" style="max-width:600px" title="Top view of Enclosure"><br />
-  Top view of Enclosure
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" style="max-width:600px" title="Top view of Enclosure."><br />
+  Top view of Enclosure.
   </p>
 <p align="center">  
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
-  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom."><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom.
 </p>
 <p align="center">  
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
-  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.32.24.jpg" style="max-width:600px" alt="Top view with cover open. Buzzer and battery attached."><br />
+  Top view with cover open. Buzzer and battery attached.
 </p>
 <p align="center">  
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.32.24.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
-  Bottom view of enclosure. The probes are stainless steel legs on the bottom
-</p>
-<p align="center">  
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.33.17.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
-  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.33.17.jpg" style="max-width:600px" alt="Top view with battery removed. Circuitry exposed"><br />
+  Top view with battery removed. Circuitry exposed.
 </p>
 <p align="center">  
   <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.34.01.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
@@ -39,7 +35,9 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
   <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.34.47.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
   Bottom view of enclosure. The probes are stainless steel legs on the bottom
 </p>
-
+<p align="center"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lflMII9bm8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 ## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
 * ESP8266 Serial Port WiFi Module Adapter Plate (https://www.amazon.com/gp/product/B01NCQFSEG)
