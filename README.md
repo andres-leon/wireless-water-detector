@@ -18,6 +18,27 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 <p align="center">  
   <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
   Bottom view of enclosure. The probes are stainless steel legs on the bottom
+</p>
+<p align="center">  
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+</p>
+<p align="center">  
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.32.24.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+</p>
+<p align="center">  
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.33.17.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+</p>
+<p align="center">  
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.34.01.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+</p>
+<p align="center">  
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.34.47.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+</p>
 
 ## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
