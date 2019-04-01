@@ -10,7 +10,8 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 * Battery Level Warnings - Noitfies me when battery is low.
 * Small and Easy to Install - Simply plug battery and set where water ought not to be.
 
-## Video demonstrating the water detector in action - https://www.youtube.com/watch?v=lflMII9bm8M
+## Demo Video
+https://www.youtube.com/watch?v=lflMII9bm8M
 
 ## Pictures
 <p align="center">
