@@ -1,5 +1,5 @@
 # Wireless, Battery-Powered, Water Detector
-A water detector powered by a LiPO batteries and transmits its status and notifications via MQTT to Home Assistance.
+A water detector powered by a LiPO battery and transmits its status and notifications via MQTT to Home Assistant.
 
 ## About
 A while back my indoor air conditioner air handler's condensation pipe clogged and caused a small flood. Thankfully we were home and so it didn't cause much damage. So instead of being sensible and getting a $15 water alarm from Home Depot, I decided to spend an inordinate amount of time, money, and effort into creating a water alarm device I could put anywhere and  notify me if a water leak happens again. My version will not only screech an annoying pitch at me but will also send me a notification to my Home Assistant which will let me know via phone and email. Oh.. and it should run on a 2500 mAh LiPO battery for about 2439 hours or around 101 days and 15 hours (according to http://www.of-things.de/battery-life-calculator.php)
