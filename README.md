@@ -16,8 +16,7 @@ Here is the result.
 * Pololu Mini Pushbutton Power Switch with Reverse Voltage Protection (https://www.pololu.com/product/2808)
 * JST Connectors (https://www.amazon.com/gp/product/B07449V33P)
 * 5v DC Buzzer (https://www.amazon.com/gp/product/B0716FD838)
-* 1 - 220k ohm resistor
-* 1 - 1m ohm resistor
+* 1 - 220k ohm resistor and 1 - 1m ohm resistor (To divide voltage from battery and calculate its capacity with the ESP's ADC pin.)
 * 2 - 1 k ohm resistors
 * 1- 150k to 170 k ohm resistor to control the TPL5110 delay. This one is needed if using Low Power Lab's TPL5110. Adafruit's TPL has an adjustable potentiometer to control the delay.
 * 2 - BC337 NPN transistors 
