@@ -1,0 +1,35 @@
+- id: 'waterdetector08'
+  alias: water sensor 08 detected water
+  trigger:
+  - entity_id: sensor.water_sensor_08_status
+    from: DRY
+    platform: state
+    to: WET
+  - entity_id: sensor.water_sensor_08_status
+    from: WET
+    platform: state
+    to: DRY
+  condition: []
+  action:
+  - data:
+      message: Water detector 08 new status is  {{ states("sensor.water_sensor_08_status") }}
+    service: notify.mypushbullet
+  - data:
+      message: Water detector 08 new status is  {{ states("sensor.water_sensor_08_status") }}
+      title: Water detector 08 new status is  {{ states("sensor.water_sensor_08_status") }}
+    service: notify.smtpandresleongmail
+
+- id: 'watersensor_08_battery_low'
+  alias: watersensor 08 battery is low
+  action:
+  - alias: autom_watersensor08battery
+    data:
+      title: Watersensor 08 battery is low
+      message: water sensor 08 battery is low at  {{ states.sensor.water_sensor_08_battery_percentage.state | float  }}%.
+    service: notify.mypushbullet
+  condition: []
+  trigger:
+    platform: numeric_state
+    entity_id: sensor.water_sensor_08_battery_percentage
+    below: 60
+    
