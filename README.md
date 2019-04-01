@@ -5,10 +5,10 @@ A water detector powered by a LiPO batteries and transmits its status and notifi
 A while back my indoor air conditioner air handler's condensation pipe clogged and caused a small flood. Thankfully we were home and so it didn't cause much damage. So instead of being sensible and getting a $15 water alarm from Home Depot, I decided to spend an inordinate amount of time, money, and effort into creating a water alarm device I could put anywhere and  notify me if a water leak happens again. My version will not only screech an annoying pitch at me but will also send me a notification to my Home Assistant which will them let me know via phone and email. Oh.. and it should run on a 2500 mAh LiPO battery for about 2439 hours or around 101 days and 15 hours (according to http://www.of-things.de/battery-life-calculator.php)
 
 ## Main Features
-* Battery powered - No need to run power cables to power device. Battery can last for several months before recharging
-* WifI Enabled - Sends MQTT notifications to my Home Assistant server
-* Battery Level Warnings - Noitfies me when battery is low
-* Small and Easy to Install - Simply plug battery and set where water ought not to be
+* Battery powered - No need to run power cables to the device. Battery can last for several months before recharging.
+* WifI Enabled - Sends MQTT notifications to my Home Assistant server.
+* Battery Level Warnings - Noitfies me when battery is low.
+* Small and Easy to Install - Simply plug battery and set where water ought not to be.
 
 ## Video demonstrating the water detector in action - https://www.youtube.com/watch?v=lflMII9bm8M
 
@@ -71,7 +71,7 @@ The following video shows how to solder the ESP to the plate and how to program 
 The code can be found in the included ino file.
 
 ## Enclosure
-I designed the enclosure using Fusion360. You can view and download it here https://a360.co/2OCKjhl
+I designed the enclosure using Fusion360. You can view and download it here https://a360.co/2OCKjhl .
 I printed it with a Prusa MK3 using PLA.(https://www.youtube.com/embed/VsiMdKhxB_E)
 
 ## Home Assistant Integration
