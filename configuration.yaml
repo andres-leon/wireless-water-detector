@@ -1,0 +1,17 @@
+sensor esp8266_LabeledAs08:
+  - platform: mqtt
+    state_topic: "watersensor/08/status"
+    name: "Water Sensor 08 Status"
+    value_template: '{{ value_json.status }}'
+  - platform: mqtt
+    state_topic: "watersensor/08/status"
+    name: "Water Sensor 08 Date"
+    value_template: '{{ now().strftime("%Y-%m-%d %H:%M:%S") }}'
+  - platform: mqtt
+    state_topic: "watersensor/08/status"
+    name: "Water Sensor 08 battery percentage"
+    value_template: '{{ value_json.batt_per }}'
+  - platform: mqtt
+    state_topic: "watersensor/08/status"
+    name: "Water Sensor 08 battery voltage"
+    value_template: '{{ value_json.batt_vol }}'
