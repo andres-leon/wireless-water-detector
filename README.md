@@ -18,3 +18,6 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 * 2 - BC337 NPN transistors 
 * Rust-proof water probes (https://www.amazon.com/gp/product/B07L94MMP)
 
+## Circuit Diagram
+![alt text](schematic.png "Diagram")
+
