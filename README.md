@@ -1,4 +1,4 @@
-# wireless-water-detector
+# Wireless, Battery-Powered, Water Detector
 A water detector to prevent flooding that runs on LiPO batteries and transmits its status and notifications via MQTT.
 
 ## About
