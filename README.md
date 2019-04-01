@@ -12,9 +12,13 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 
 ## Pictures
 <p align="center">
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" width="500" title="Top view of Enclosure">
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" width="500" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom">
-</p>
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" style="max-width:600px" title="Top view of Enclosure"><br />
+  Top view of Enclosure
+  </p>
+<p align="center">  
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" style="max-width:600px" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom"><br />
+  Bottom view of enclosure. The probes are stainless steel legs on the bottom
+
 ## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
 * ESP8266 Serial Port WiFi Module Adapter Plate (https://www.amazon.com/gp/product/B01NCQFSEG)
@@ -54,6 +58,4 @@ The code can be found in the included ino file.
 ## Enclosure
 I designed the enclosure using Fusion360. You can view and download it here https://a360.co/2OCKjhl
 I printed it with a Prusa MK3 using PLA.(https://www.youtube.com/embed/VsiMdKhxB_E)
-
-
 
