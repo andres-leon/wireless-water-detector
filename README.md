@@ -12,8 +12,8 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 
 ## Pictures
 <p align="center">
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" width="500" title="">
-  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" width="500" alt="">
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" width="500" title="Top view of Enclosure">
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" width="500" alt="Bottom view of enclosure. The probes are stainless steel legs on the bottom">
 </p>
 ## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
