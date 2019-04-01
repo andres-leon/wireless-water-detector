@@ -2,7 +2,7 @@
 A water detector powered by a LiPO batteries and transmits its status and notifications via MQTT to Home Assistance.
 
 ## About
-A while back my indoor air conditioner air handler's condensation pipe clogged and caused a small flood. Thankfully we were home and so it didn't cause much damage. So instead of being sensible and getting a $15 water alarm from Home Depot, I decided to spend an inordinate amount of time, money, and effort into creating a water alarm device I could put anywhere and  notify me if a water leak happens again. My version will not only screech an annoying pitch at me but will also send me a notification to my Home Assistant which will them let me know via phone and email. Oh.. and it should run on a 2500 mAh LiPO battery for about 2439 hours or around 101 days and 15 hours (according to http://www.of-things.de/battery-life-calculator.php)
+A while back my indoor air conditioner air handler's condensation pipe clogged and caused a small flood. Thankfully we were home and so it didn't cause much damage. So instead of being sensible and getting a $15 water alarm from Home Depot, I decided to spend an inordinate amount of time, money, and effort into creating a water alarm device I could put anywhere and  notify me if a water leak happens again. My version will not only screech an annoying pitch at me but will also send me a notification to my Home Assistant which will let me know via phone and email. Oh.. and it should run on a 2500 mAh LiPO battery for about 2439 hours or around 101 days and 15 hours (according to http://www.of-things.de/battery-life-calculator.php)
 
 ## Main Features
 * Battery powered - No need to run power cables to the device. Battery can last for several months before recharging.
@@ -62,7 +62,7 @@ When the ESP's sketch is done it sends a signal to the DONE pin of both the TPL 
 When dormant, the whole project draws about 8 micro amps. When the EPS is turned on the sketch takes about 10 seconds to run and consumes an average of about 82 milliamps.
 
 #### Potential for more battery savings
-The battery may last a lot longer than 100 days if I update my code to send the MQTT notifications every x number of times it wakes up. The TPL has a maximum delay of 2 hours, but I don't need to check the battery voltage that often. I can set a counter to actually send the message every 12 times it runs, thus sending the notification once per day (or maybe two days, etc). This will increase the battery life pretty dramatically. However, since I am still testing the system, I am not using this feature yet.
+As previously stated, the sensor as is should run for about 2439 hours or around 101 days and 15 hours with a 2500 mAh Lipo battery. However it may last a lot longer than 100 days if I update my code to send the MQTT notifications every x number of times it wakes up. The variable `counter_limit_wakeup`, which is set to 1 by default, controls this. The TPL has a maximum delay of 2 hours, but I don't need to check the battery voltage that often. I can set `counter_limit_wakeup = 6;` an the sensor will send the message every 12 times it runs, thus sending the notification twice per day. Setting it to `counter_limit_wakeup = 12;` will send the notification about once every 24 hours. However, since I am still testing the system, I am not using this feature yet and so it's set to 1.
 
 ## Soldering and Programming the Barebones Board
 The following video shows how to solder the ESP to the plate and how to program it using the Arduino IDE: https://www.youtube.com/watch?v=O2SSyfP6OM0
