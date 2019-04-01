@@ -30,3 +30,12 @@ The following video shows how to solder the ESP to the plate and how to program 
 
 ## Code
 The code can be found in the included ino file.
+
+## Enclosure
+I designed the enclosure using Fusion360. You can view and download it here https://a360.co/2OCKjhl
+I printed it with a Prusa MK3 using PLA.
+
+[![Watch the video]](https://www.youtube.com/embed/VsiMdKhxB_E)
+
+
+
