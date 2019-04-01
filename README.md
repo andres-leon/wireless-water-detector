@@ -76,7 +76,7 @@ I designed the enclosure using Fusion360. You can view and download it here http
 I printed it with a Prusa MK3 using PLA.(https://www.youtube.com/embed/VsiMdKhxB_E)
 
 ## Home Assistant Integration
-Use the configuration.yaml and automations.yaml scripts to integrate the device into your Home Assistant.
+Use the configuration.yaml, groups.yaml, and automations.yaml scripts to integrate the device into your Home Assistant.
 <p align="center">  
   <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/hassio-snapshot.PNG" style="max-width:400px" alt="Home Assistan card with sensor information."><br />
   Home Assistan card with sensor information.
