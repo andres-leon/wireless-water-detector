@@ -11,7 +11,10 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 * Small and Easy to Install - Simply plug battery and set where water ought not to be
 
 ## Pictures
-
+<p align="center">
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" width="500" title="">
+  <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.43.jpg" width="500" alt="">
+</p>
 ## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
 * ESP8266 Serial Port WiFi Module Adapter Plate (https://www.amazon.com/gp/product/B01NCQFSEG)
