@@ -1,0 +1,8 @@
+wateralertstab08:
+  name: Flood Sensor 08
+  view: no
+  entities:
+    - sensor.water_sensor_08_date
+    - sensor.water_sensor_08_status
+    - sensor.water_sensor_08_battery_percentage
+    - sensor.water_sensor_08_battery_voltage
