@@ -6,9 +6,12 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 
 Here is the result.
 
-## Hardware
+## Pictures
+
+## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
 * ESP8266 Serial Port WiFi Module Adapter Plate (https://www.amazon.com/gp/product/B01NCQFSEG)
+* FTDI Mini USB to TTL Serial Converter Adapter Module to program ESP (https://www.amazon.com/gp/product/B00IJXZQ7C/)
 * Low Power Labs' TPL 5110 (https://lowpowerlab.com/shop/product/147?search=tpl5110) or Adafruit TPL5110 (https://www.adafruit.com/product/3435)
 * Pololu Mini Pushbutton Power Switch with Reverse Voltage Protection (https://www.pololu.com/product/2808)
 * JST Connectors (https://www.amazon.com/gp/product/B07449V33P)
@@ -23,3 +26,8 @@ Here is the result.
 ## Circuit Diagram
 ![alt text](schematic.png "Diagram")
 
+## Soldering and Programming the Barebones Board
+The following video shows how to solder the ESP to the plate and how to program it using the Arduino IDE: https://www.youtube.com/watch?v=O2SSyfP6OM0
+
+## Code
+The code can be found in the included ino file.
