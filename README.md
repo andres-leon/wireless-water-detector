@@ -61,7 +61,7 @@ When the ESP's sketch is done it sends a signal to the DONE pin of both the TPL 
 
 When dormant, the whole project draws about 8 micro amps. When the EPS is turned on the sketch takes about 10 seconds to run and consumes an average of about 82 milliamps.
 
-#### Potential for more battery savings
+## Potential for more battery savings
 As previously stated, the sensor as is should run for about 2439 hours or around 101 days and 15 hours with a 2500 mAh Lipo battery. However it may last a lot longer than 100 days if I update my code to send the MQTT notifications every x number of times it wakes up. The variable `counter_limit_wakeup`, which is set to 1 by default, controls this. The TPL has a maximum delay of 2 hours, but I don't need to check the battery voltage that often. I can set `counter_limit_wakeup = 6;` an the sensor will send the message every 12 times it runs, thus sending the notification twice per day. Setting it to `counter_limit_wakeup = 12;` will send the notification about once every 24 hours. However, since I am still testing the system, I am not using this feature yet and so it's set to 1.
 
 ## Soldering and Programming the Barebones Board
