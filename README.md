@@ -10,6 +10,8 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 * Battery Level Warnings - Noitfies me when battery is low
 * Small and Easy to Install - Simply plug battery and set where water ought not to be
 
+## Video demonstrating the water detector in action - https://www.youtube.com/watch?v=lflMII9bm8M
+
 ## Pictures
 <p align="center">
   <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.31.27.jpg" style="max-width:600px" title="Top view of Enclosure."><br />
@@ -31,8 +33,6 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
   <img src="https://github.com/andres-leon/wireless-water-detector/blob/master/images/2019-04-01%2016.34.47.jpg" style="max-width:600px" alt="Whole unit exposed but still connected."><br />
   Whole unit exposed but still connected.
 </p>
-
-### Video demonstrating the water detector in action - https://www.youtube.com/watch?v=lflMII9bm8M
 
 ## Hardware Needed
 * ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
