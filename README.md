@@ -6,9 +6,9 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 
 ## Main Features
 * Battery powered - No need to run power cables to the device. Battery can last for several months before recharging.
-* WifI Enabled - Sends MQTT notifications to my Home Assistant server.
-* Battery Level Warnings - Noitfies me when battery is low.
-* Small and Easy to Install - Simply plug battery and set where water ought not to be.
+* WifI enabled - Sends MQTT notifications to my Home Assistant server.
+* Battery level warnings - Noitfies me when battery is low.
+* Small and easy to install - Once reprogrammed with your wifi and MQTT server settings, set it where water needs to be detected (like at the bottom of your air handler unit).
 
 ## Demo Video
 https://www.youtube.com/watch?v=lflMII9bm8M
