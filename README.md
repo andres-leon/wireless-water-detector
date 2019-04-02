@@ -7,7 +7,7 @@ A while back my indoor air conditioner air handler's condensation pipe clogged a
 ## Main Features
 * Battery powered - No need to run power cables to the device. Battery can last several months before recharging.
 * WifI enabled - Sends MQTT notifications to my Home Assistant server.
-* Battery level warnings - Noitfies me when battery is low.
+* Battery level warnings - Notifies me via Home Assistant when battery level is low.
 * Small and easy to install - Once reprogrammed with your wifi and MQTT server settings, set it where water needs to be detected (like at the bottom of your air handler unit).
 
 ## Demo Video
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=lflMII9bm8M
 </p>
 
 ## Hardware Needed
-* ESP8266 12E or F (https://www.amazon.com/gp/product/B01M4IOFIT)
+* ESP8266 (https://www.amazon.com/gp/product/B01M4IOFIT)
 * ESP8266 Serial Port WiFi Module Adapter Plate (https://www.amazon.com/gp/product/B01NCQFSEG)
 * 2500mAh LiPO battery (https://www.adafruit.com/product/328)
 * FTDI Mini USB to TTL Serial Converter Adapter Module to program ESP (https://www.amazon.com/gp/product/B00IJXZQ7C/)
