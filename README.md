@@ -5,7 +5,7 @@ A water detector powered by a LiPO battery that transmits its status and notific
 A while back my indoor air conditioner air handler's condensation pipe clogged and caused a small flood. Thankfully we were home and so it didn't cause much damage. So instead of being sensible and getting a $15 water alarm from Home Depot, I decided to spend an inordinate amount of time, money, and effort into creating a water alarm device I could put anywhere and  notify me if a water leak happens again. My version will not only screech an annoying pitch at me but will also send me a notification to my Home Assistant which will let me know via phone and email. Oh.. and it should run on a 2500 mAh LiPO battery for about 2439 hours or around 101 days and 15 hours (according to http://www.of-things.de/battery-life-calculator.php)
 
 ## Main Features
-* Battery powered - No need to run power cables to the device. Battery can last for several months before recharging.
+* Battery powered - No need to run power cables to the device. Battery can last several months before recharging.
 * WifI enabled - Sends MQTT notifications to my Home Assistant server.
 * Battery level warnings - Noitfies me when battery is low.
 * Small and easy to install - Once reprogrammed with your wifi and MQTT server settings, set it where water needs to be detected (like at the bottom of your air handler unit).
