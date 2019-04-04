@@ -84,3 +84,8 @@ Use the configuration.yaml, groups.yaml, and automations.yaml scripts to integra
   Home Assistan card with sensor information - Pushbullet notification
 </p>
 
+## Credits and Thanks
+The main sources of inspiration and ideas to make this project come to life are:
+* http://benlo.com/esp8266/esp8266WaterAlarm.html - Mr. Jennings provided the idea of using the Pololu switch to trigger the alarm when water was present. 
+* https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking - For battery voltage tracking.
+* http://www.of-things.de/battery-life-calculator.php - Andreas Spiess' IOT battery calculator.
