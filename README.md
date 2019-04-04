@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=lflMII9bm8M
 * 2 - 1 k ohm resistors
 * 1- 150k to 170 k ohm resistor to control the TPL5110 delay. This one is needed if using Low Power Lab's TPL5110. Adafruit's TPL has an adjustable potentiometer to control the delay.
 * 2 - BC337 NPN transistors 
-* Rust-proof water probes (https://www.amazon.com/gp/product/B07L94MMP)
+* Rust-proof water probes (https://www.amazon.com/gp/product/B07L94MMP7)
 
 ## Circuit Diagram
 ![alt text](schematic.png "Diagram")
